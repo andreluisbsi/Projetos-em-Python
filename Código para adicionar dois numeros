@@ -1,0 +1,10 @@
+def soma(a,b):
+  resultado = a + b
+  return resultado
+
+resultado_soma = soma(10,3)
+print("O resultado da sua soma é: ", resultado_soma)
+     
+O resultado da sua soma é:  13
+Descrição geral:
+Função simples que soma dois valores e imprime o resultado. Serve como exemplo básico de definição de função, chamada e impressão em Python.
